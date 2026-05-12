@@ -319,11 +319,7 @@ This project replicates a real Security Operation Center (SOC) environment in a 
 |--------|--------|
 | What happened | Scan revealed the attack surface |
 | What I learned | Scanning shows what is exposed — not how to fix it |
-| What to do next | Follow every scan with remediation and re-verification |
-
----
-
-### Key Takeaway
+| What to do next | Follow every scan with remediation and re-verification 
 
 > A SOC Analyst does not just run tools, they understand
 > what the tools do, why alerts fire, whether alerts are
