@@ -231,6 +231,15 @@ This project replicates a real Security Operation Center (SOC) environment in a 
 
 ---
 
+## Screenshots
+- Attack Simulation
+  <img width="1920" height="1080" alt="Screenshot 2026-05-12 005013" src="https://github.com/user-attachments/assets/37506780-3864-489e-94d3-92cc4bcc8cdb" />
+
+- Dashboard 
+  <img width="1920" height="1080" alt="Screenshot 2026-05-12 093456" src="https://github.com/user-attachments/assets/5f3f2187-5e6d-4951-9310-5812e77e7943" />
+
+---
+
 ##  Lessons Learned
 
 ### 1. Scan Timing Matters
